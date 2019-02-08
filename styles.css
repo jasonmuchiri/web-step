@@ -13,3 +13,9 @@ p {
 ul{
   line-height:40px
 }
+html{
+  background-color: orange
+}
+ul{
+  font-family: serif;
+}
